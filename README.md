@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Link](https://img.shields.io/badge/Blog-8A2BE2)]([Eutop1a](https://eutop1a.github.io/))
+[![My Link](https://img.shields.io/badge/Blog-8A2BE2)](https://eutop1a.github.io/)
 
 Hi, I' m Eutop1a, a student at Chongqing University of Posts and Telecommunications, majoring in Computer Science and Technology. 
 
